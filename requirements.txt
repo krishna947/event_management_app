@@ -1,0 +1,27 @@
+asgiref==3.7.2
+# backports.zoneinfo==0.2.1
+blessed==1.20.0
+bpython==0.24
+bython==0.8
+certifi==2023.11.17
+charset-normalizer==3.3.2
+curtsies==0.4.2
+cwcwidth==0.1.9
+Django==4.2.7
+django-cors-headers==4.3.1
+django-extensions==3.2.3
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+greenlet==3.0.1
+idna==3.4
+psycopg2==2.9.9
+Pygments==2.17.2
+PyJWT==2.8.0
+pytz==2023.3.post1
+pyxdg==0.28
+requests==2.31.0
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.8.0
+urllib3==2.1.0
+wcwidth==0.2.12
